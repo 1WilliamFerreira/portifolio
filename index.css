@@ -1,0 +1,33 @@
+body {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+}
+a {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 10px grey;
+}
+
+h1 {
+    color: rgb(0, 32, 0);
+}
+
+h2{
+    color: rgb(1, 27, 0);
+}
+
